@@ -8,7 +8,7 @@ public class Main {
         Curso curso1 = new Curso();
         curso1.setDescricao("descrição curso java");
         curso1.setTitulo("curso java");
-        curso1.setCargaHoraria(8);
+        curso1.setCargaHoraria(18);
 
         Curso curso2 = new Curso();
         curso2.setDescricao("descrição curso javascript");
