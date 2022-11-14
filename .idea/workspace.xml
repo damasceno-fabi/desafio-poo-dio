@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb62d4e3-999f-4143-8f6b-d8cab7e9c798" name="Changes" comment="alterado">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="bb62d4e3-999f-4143-8f6b-d8cab7e9c798" name="Changes" comment="criação das classes Mentoria e Curso">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -82,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668452057871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="criação das classes Mentoria e Curso">
+      <created>1668453246238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668453246238</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="alterado" />
-    <option name="LAST_COMMIT_MESSAGE" value="alterado" />
+    <MESSAGE value="criação das classes Mentoria e Curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="criação das classes Mentoria e Curso" />
   </component>
 </project>
